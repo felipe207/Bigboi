@@ -1,0 +1,3 @@
+class PedidoFinal {
+  PedidoFinal();
+}

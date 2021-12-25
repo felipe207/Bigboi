@@ -1,0 +1,6 @@
+class Empresa {
+
+Empresa();
+
+
+}
